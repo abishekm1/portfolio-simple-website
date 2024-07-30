@@ -18,6 +18,7 @@ To view my portfolio, simply visit [your portfolio website URL]. If you want to 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://abishekm1.github.io/portfolio-simple-website.git
+    
 ##Contributing
    If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
